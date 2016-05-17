@@ -14,3 +14,7 @@
   name: Yandex
   url: https://yandex.com/search/?text=
   logo: https://upload.wikimedia.org/wikipedia/commons/9/91/Yandex_logo_en.svg
+-
+  name: DuckDuckGo
+  url: https://duckduckgo.com/?q=
+  logo: https://upload.wikimedia.org/wikipedia/en/a/a9/DuckDuckGo_Logo.svg
