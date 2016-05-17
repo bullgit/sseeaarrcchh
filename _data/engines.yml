@@ -30,3 +30,7 @@
   name: Ask.com
   url: http://ask.com/web?q=
   logo: https://upload.wikimedia.org/wikipedia/commons/a/a0/AskLogoNew07.PNG
+-
+  name: Ecosia
+  url: https://www.ecosia.org/search?q=
+  logo: https://upload.wikimedia.org/wikipedia/en/1/11/Ecosia_logo.png
