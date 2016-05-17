@@ -1,26 +1,22 @@
 # the language
-lang:
+lang: en
 # author info
 author:
-  name:
-  email:
-  twitter:
+  name: bullgit
+  email: haroen@bullg.it
+  twitter: '@bullgit'
 # title and description
-title:
-description:
+title: sseeaarrcchh
+description: search for search on sseeaarrcchh
 # the url this will be published at
-url:
-baseurl:
+url: https://bullg.it
+baseurl: /sseeaarrcchh/
 # the theme colour
-color:
+color: '#FFFFFF'
 # location of some files
-css:
-scripts:
-favicon:
-# alternative to JEKYLL_ENV
-development: true
-# google analytics
-analytics:
+css: ['src/style.css']
+scripts: ['https://cdn.rawgit.com/bullgit/badge/master/badge.js']
+favicon: ../media/pixels/favicon.png
 #configuration
 sass:
   style: compressed

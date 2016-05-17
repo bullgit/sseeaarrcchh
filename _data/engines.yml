@@ -1,0 +1,16 @@
+-
+  name: Google
+  url: https://google.com/?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
+-
+  name: Bing
+  url: http://www.bing.com/search?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/c/c7/Bing_logo_%282016%29.svg
+-
+  name: Yahoo
+  url: https://search.yahoo.com/search?p=
+  logo: https://upload.wikimedia.org/wikipedia/commons/a/ad/Yahoo_Logo.svg
+-
+  name: Yandex
+  url: https://yandex.com/search/?text=
+  logo: http://www.redorbit.com/media/uploads/2013/02/yandex.png
