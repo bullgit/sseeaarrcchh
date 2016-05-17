@@ -34,3 +34,7 @@
   name: Ecosia
   url: https://www.ecosia.org/search?q=
   logo: https://upload.wikimedia.org/wikipedia/en/1/11/Ecosia_logo.png
+-
+  name: Qwant
+  url: https://www.qwant.com/?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/f/fd/Qwant-v3.png
