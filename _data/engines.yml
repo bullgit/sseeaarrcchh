@@ -18,3 +18,15 @@
   name: DuckDuckGo
   url: https://duckduckgo.com/?q=
   logo: https://upload.wikimedia.org/wikipedia/en/a/a9/DuckDuckGo_Logo.svg
+-
+  name: Baidu
+  url: http://www.baidu.com/s?&wd=
+  logo: https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg
+-
+  name: AOL
+  url: http://search.aol.com/aol/search?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/b/b6/AOL_logo.svg
+-
+  name: Ask.com
+  url: http://ask.com/web?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/a/a0/AskLogoNew07.PNG
