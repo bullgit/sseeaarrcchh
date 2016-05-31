@@ -31,6 +31,11 @@
   url: http://search.aol.com/aol/search?q=
   logo: https://upload.wikimedia.org/wikipedia/commons/b/b6/AOL_logo.svg
 -
+  name: Search
+  url: https://www.search.com/web?q=
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Search.com_logo.svg/320px-Search.com_logo.svg.png
+  #logo: https://upload.wikimedia.org/wikipedia/commons/b/b8/Search.com_logo.svg
+-
   name: Ask.com
   url: http://ask.com/web?q=
   logo: https://upload.wikimedia.org/wikipedia/commons/a/a0/AskLogoNew07.PNG
