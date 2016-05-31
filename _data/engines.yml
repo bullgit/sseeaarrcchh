@@ -38,3 +38,7 @@
   name: Qwant
   url: https://www.qwant.com/?q=
   logo: https://upload.wikimedia.org/wikipedia/commons/f/fd/Qwant-v3.png
+-
+  name: Webcrawler
+  url: http://www.webcrawler.com/info.wbcrwl.309.22/search/web?fcoid=417&fcop=topnav&fpid=2&cid=112697246&ad.segment=info.wbcrwl.309.22&ad.device=c&aid=d6dd5170-c5d2-4e8f-80e7-63ff3f7e8c73&ridx=1&q=
+  logo: http://cdn1.inspsearchapi.com/webcrawler/1.6.2.636/content/img/layout/toplogo_sm.png
