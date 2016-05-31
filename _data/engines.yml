@@ -19,6 +19,10 @@
   url: https://duckduckgo.com/?q=
   logo: https://upload.wikimedia.org/wikipedia/en/a/a9/DuckDuckGo_Logo.svg
 -
+  name: WolframAlpha
+  url: http://www.wolframalpha.com/input/?i=
+  logo: https://upload.wikimedia.org/wikipedia/en/2/2b/WolframAlpha-logo.svg
+-
   name: Baidu
   url: http://www.baidu.com/s?&wd=
   logo: https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg
