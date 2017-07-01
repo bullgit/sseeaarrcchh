@@ -17,11 +17,11 @@
 -
   name: DuckDuckGo
   url: https://duckduckgo.com/?q=
-  logo: https://upload.wikimedia.org/wikipedia/en/a/a9/DuckDuckGo_Logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/1/11/DuckDuckGo_logo_and_wordmark_%282014-present%29.svg
 -
   name: WolframAlpha
   url: http://www.wolframalpha.com/input/?i=
-  logo: https://upload.wikimedia.org/wikipedia/en/2/2b/WolframAlpha-logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Wolfram_Alpha_December_2016.svg/500px-Wolfram_Alpha_December_2016.svg.png
 -
   name: Baidu
   url: http://www.baidu.com/s?&wd=
@@ -33,8 +33,7 @@
 -
   name: Search
   url: https://www.search.com/web?q=
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Search.com_logo.svg/320px-Search.com_logo.svg.png
-  #logo: https://upload.wikimedia.org/wikipedia/commons/b/b8/Search.com_logo.svg
+  logo: src/search.com.svg
 -
   name: Ask.com
   url: http://ask.com/web?q=
