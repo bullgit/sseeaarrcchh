@@ -27,6 +27,18 @@
   url: http://www.baidu.com/s?&wd=
   logo: https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg
 -
+  name: Facebook
+  url: https://www.facebook.com/search/top/?q=
+  logo: https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/12593530_1151570934875921_4699793290279516844_o.png?oh=42cbd04319e1d06855e7a922eb65e443&oe=59C9E791
+-
+  name: Amazon
+  url: https://www.amazon.com/s/?field-keywords=
+  logo: https://www.seeklogo.net/wp-content/uploads/2016/10/amazon-logo.png
+-
+  name: Weibo
+  url: http://s.weibo.com/weibo/
+  logo: https://img.t.sinajs.cn/t4/appstyle/searchV45/images_v6/common/search_logo.png?id=201409221153
+-
   name: AOL
   url: http://search.aol.com/aol/search?q=
   logo: https://upload.wikimedia.org/wikipedia/commons/b/b6/AOL_logo.svg
@@ -50,3 +62,55 @@
   name: Webcrawler
   url: http://www.webcrawler.com/info.wbcrwl.309.22/search/web?fcoid=417&fcop=topnav&fpid=2&cid=112697246&ad.segment=info.wbcrwl.309.22&ad.device=c&aid=d6dd5170-c5d2-4e8f-80e7-63ff3f7e8c73&ridx=1&q=
   logo: http://cdn1.inspsearchapi.com/webcrawler/1.6.2.636/content/img/layout/toplogo_sm.png
+-
+  name: Gigablast
+  url: http://www.gigablast.com/search?c=main&q=
+  logo: http://www.gigablast.com/redrocket.jpg
+-
+  name: Sogou
+  url: https://www.sogou.com/web?&_asf=www.sogou.com&_ast=&w=01019900&p=40040100&ie=utf8&from=index-nologin&s_from=index&sut=6023&sst0=1498941104491&lkt=6%2C1498941098468%2C1498941104134&sugsuv=1498941091392717&sugtime=1498941104491&query=
+  logo: https://www.sogou.com/web/img/logo115_50x2.png
+-
+  name: Lycos
+  url: http://search18.lycos.com/web/?&keyvol=00f3dd7b8d108170358f&q=
+  logo: http://ly.lygo.com/ly/lycos/3/img/logo-lycos-topBar.png
+-
+  name: Teoma
+  url: http://www.teoma.com/web?&tpr=1&ts=1498941326720&q=
+  logo: http://www.teoma.com/assets/b/t_HP_logo.png
+-
+  name: Search.ch
+  url: https://www.search.ch/?q=
+  logo: http://lib.search.ch/images/search-logo.svg?c=02129bb861
+-
+  name: Naver
+  url: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=
+  logo: https://upload.wikimedia.org/wikipedia/en/3/3f/Naver_2009_logo.svg
+-
+  name: Najdi
+  url: http://www.najdi.si/najdi/
+  logo: http://www.najdi.si/images/logo/najdisi_logo_serp@2x.png
+-
+  name: Goo
+  url: https://search.goo.ne.jp/web.jsp?MT=
+  logo: https://www.xgoo.jp/img/gh_logo.png?151211
+-
+  name: Ciao
+  url: http://www.ciao.co.uk/sr/q-
+  logo: http://uk-img1.ciao.com/iuk/images/logos/ciao_bot_logo_new.png
+-
+  name: Leit
+  url: http://leit.is/leita?utf8=✓&search=
+  logo: http://leit.is/system/companies/listing_images/000/023/390/listing/leit.is_logo_2png.png?1421343411
+-
+  name: Egerin
+  url: http://egerin.com/user/searchresult?&type=Web&query=
+  logo: http://egerin.com/assets2016/images/logo-white.png
+-
+  name: Biglobe
+  url: http://www.biglobe.co.jp/?s=
+  logo: http://www.biglobe.co.jp/img/2014/logo.gif
+-
+  name: Majestic
+  url: https://majestic.com/reports/site-explorer-search?&IndexDataSource=F&q=
+  logo: https://blog.majestic.com/wp-content/uploads/2015/09/majestic_logo_large.jpg

@@ -24,9 +24,18 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+}
 
-    img {
-      height: 3em;
-    }
+img {
+  height: 3em;
+  padding: .2em;
+
+  .weibo & {
+    background-color: #c5d6ea;
+  }
+
+  .search\.ch & {
+    background-color: black;
   }
 }

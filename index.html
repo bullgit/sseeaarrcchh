@@ -10,9 +10,10 @@ layout: default
 <div class="container">
 {% for engine in site.data.engines %}
   <article>
-    <a href="{{engine.url}}{{engine.name | downcase}}" target="_blank">
+    <a href="{{engine.url}}{{engine.name | downcase}}" class="{{engine.name | downcase}}" target="_blank" rel="noreferer">
       <img src="{{engine.logo}}" alt="{{engine.name}}">
     </a>
   </article>
 {% endfor %}
 </div>
+
